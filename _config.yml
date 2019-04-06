@@ -11,6 +11,7 @@ baseurl: ''
 nav:
   home: '/'
   tags: '/tags.html'
+Contact: '/contact.html'
 
 # Footer
 footer:
